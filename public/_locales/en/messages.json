@@ -117,266 +117,266 @@
   },
   "prefixMenus": {
     "message": " İndir",
-    "description": "context download prefix menus display"
+    "description": "bağlam indirme önek menüleri ekranı"
   },
   "link": {
-    "message": "link",
-    "description": "context download menus display"
+    "message": "bağlantı",
+    "description": "bağlam indirme menüleri ekranı"
   },
   "image": {
-    "message": "image",
-    "description": "context download menus display"
+    "message": "görüntü",
+    "description": "bağlam indirme menüleri ekranı"
   },
   "audio": {
-    "message": "audio",
-    "description": "context download menus display"
+    "message": "ses",
+    "description": "bağlam indirme menüleri ekranı"
   },
   "video": {
     "message": "video",
-    "description": "context download menus display"
+    "description": "bağlam indirme menüleri ekranı"
   },
   "deleteNotification": {
-    "message": "Delete Notification",
-    "description": "Delete notification button"
+    "message": "Bildirimi sil",
+    "description": "Bildirimi silme düğmesi"
   },
   "downloadCompletedNotification": {
-    "message": "Download Completed",
-    "description": "Download completion notification button"
+    "message": "İndirme tamamlandı",
+    "description": "İndirme tamamlanma bildirim düğmesi"
   },
   "downloadStartedNotification": {
-    "message": "Download started",
-    "description": "Download notification"
+    "message": "İndirme başladı",
+    "description": "İndirme bildirimi"
   },
   "downloadWarnNotification": {
-    "message": "Download warning",
-    "description": "Download notification"
+    "message": "İndirme uyarısı",
+    "description": "İndirme bildirimi"
   },
   "openFolderNotification": {
-    "message": "Open folder",
-    "description": "Download completion notification open folder button"
+    "message": "Klasörü aç",
+    "description": "İndirme tamamlandığında klasörü aç bildirim düğmesi"
   },
   "downloadSetting": {
-    "message": "Download",
-    "description": "plugin setting instructions"
+    "message": "İndir",
+    "description": "eklenti ayarlama talimatları"
   },
   "leftClickFileSetting": {
-    "message": "Open the file when clicking the file name with the left mouse button",
-    "description": "plugin setting instructions"
+    "message": "Sol fare tuşuyla dosya adına tıkladığınızda dosyayı açın",
+    "description": "eklenti ayarlama talimatları"
   },
   "rightClickFileSetting": {
-    "message": "Copy to clipboard when right click on file name",
-    "description": "plugin setting instructions"
+    "message": "Dosya adına sağ tıklandığında panoya kopyala",
+    "description": "eklenti ayarlama talimatları"
   },
   "leftClickUrlSetting": {
-    "message": "Open the link when clicking the download link",
-    "description": "plugin setting instructions"
+    "message": "İndirme bağlantısına tıkladığınızda bağlantıyı açın",
+    "description": "eklenti ayarlama talimatları"
   },
   "rightClickUrlSetting": {
-    "message": "Copy to clipboard when right click on download link",
-    "description": "plugin setting instructions"
+    "message": "İndirme bağlantısına sağ tıklandığında panoya kopyala",
+    "description": "eklenti ayarlama talimatları"
   },
   "showTooltipSetting": {
-    "message": "Display a prompt message when the mouse moves over the button",
-    "description": "plugin setting instructions"
+    "message": "Fare düğmenin üzerine geldiğinde bir uyarı mesajı görüntüle",
+    "description": "eklenti ayarlama talimatları"
   },
   "enableAnimation": {
-    "message": "Enable file moving in and out animation",
-    "description": "plugin setting instructions"
+    "message": "İçeri ve dışarı dosya taşıma animasyonunu etkinleştirin",
+    "description": "eklenti ayarlama talimatları"
   },
   "contextMenus": {
-    "message": "Context menu",
-    "description": "plugin setting instructions"
+    "message": "Bağlam menüsü",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadContextMenusSetting": {
-    "message": "Download menu",
-    "description": "plugin setting instructions"
+    "message": "İndirme menüsü",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadContextMenusDescSetting": {
-    "message": "Supported file types: ",
-    "description": "plugin setting details instructions"
+    "message": "Desteklenen dosya türleri: ",
+    "description": "eklenti ayarı ayrıntıları talimatları"
   },
   "notificationSetting": {
-    "message": "Notification",
-    "description": "plugin setting instructions"
+    "message": "Bildirim",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadNotificationSetting": {
-    "message": "Download notification",
-    "description": "plugin setting instructions"
+    "message": "İndirme bildirimi",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadNotificationSetting1": {
-    "message": "Started",
-    "description": "plugin setting instructions"
+    "message": "Başladı",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadNotificationSetting2": {
-    "message": "Completed",
-    "description": "plugin setting instructions"
+    "message": "Tamamlandı",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadNotificationSetting3": {
-    "message": "Warned",
-    "description": "plugin setting instructions"
+    "message": "Uyarıldı",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadNotificationReservedTimeSetting": {
-    "message": "Download notification retention time (second)",
-    "description": "plugin setting instructions"
+    "message": "İndirme bildirimi saklama süresi (saniye)",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadToneSetting": {
-    "message": "Download tone",
-    "description": "plugin setting instructions"
+    "message": "Sesi indir",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadNotificationRemainVisibleSetting": {
-    "message": "Download notifications remain visible",
-    "description": "plugin setting instructions"
+    "message": "İndirme bildirimi görünür kalır",
+    "description": "eklenti ayarlama talimatları"
   },
   "downloadNotificationRemainVisibleDescSetting": {
-    "message": "Indicates that the notification should remain visible on screen until the user activates or dismisses the notification. Since Chrome 50.",
-    "description": "plugin setting instructions"
+    "message": "Kullanıcı bildirimi etkinleştirene veya kapatana kadar bildirimin ekranda görünür kalması gerektiğini belirtir. Chrome 50'den beri.",
+    "description": "eklenti ayarlama talimatları"
   },
   "shortcutSetting": {
-    "message": "Shortcut",
-    "description": "plugin setting instructions"
+    "message": "Kısayol",
+    "description": "eklenti ayarlama talimatları"
   },
   "openPopupSetting": {
-    "message": "Activate the extension",
-    "description": "plugin setting instructions"
+    "message": "Uzantıyı etkinleştirin",
+    "description": "eklenti ayarlama talimatları"
   },
   "openPopupDetailsSetting": {
-    "message": "Please click",
-    "description": "plugin setting details instructions"
+    "message": "Lütfen tıklayın",
+    "description": "eklenti ayarı ayrıntıları talimatları"
   },
   "chromePluginShortcutDescSetting": {
-    "message": "Shortcut Settings",
-    "description": "plugin setting instructions"
+    "message": "Kısayol Ayarları",
+    "description": "eklenti ayarlama talimatları"
   },
   "syncSetting": {
-    "message": "Sync",
-    "description": "plugin setting instructions"
+    "message": "Eşitle",
+    "description": "eklenti ayarlama talimatları"
   },
   "pluginSyncSetting": {
-    "message": "Sync plugin settings",
-    "description": "plugin setting instructions"
+    "message": "Eklenti ayarlarını eşitle",
+    "description": "eklenti ayarlama talimatları"
   },
   "pluginSyncDetailedSetting": {
-    "message": "When you have logged in to your Google account, you can synchronize plugin settings between different Google Kernel-based browsers",
-    "description": "plugin setting details instructions"
+    "message": "Google hesabınıza giriş yaptığınızda, eklenti ayarlarını farklı Google Kernel tabanlı tarayıcılar arasında senkronize edebilirsiniz.",
+    "description": "eklenti ayarı ayrıntıları talimatları"
   },
   "notSyncSetting": {
-    "message": "This setting will not be synchronized",
-    "description": "plugin setting instructions"
+    "message": "Bu ayar senkronize edilmeyecek",
+    "description": "eklenti ayarlama talimatları"
   },
   "themeTitle": {
-    "message": "Theme",
-    "description": "Theme Tab Description"
+    "message": "Tema",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "themeAdaptation": {
-    "message": "Theme adaptation",
-    "description": "Theme Tab Description"
+    "message": "Tema uyumu",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "themeAdaptationDescription": {
-    "message": "According to the color mode of the system, adaptively display bright and dark themes, including icons and download panel.",
-    "description": "Theme Tab Description"
+    "message": "Sistemin renk moduna göre, simgeler ve indirme paneli dahil açık ve koyu temaları uyarlamalı olarak görüntüleyin.",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "themeAdaptationOption1": {
-    "message": "auto",
-    "description": "Theme Tab Description"
+    "message": "otomatik",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "themeAdaptationOption2": {
-    "message": "light",
-    "description": "Theme Tab Description"
+    "message": "açık",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "themeAdaptationOption3": {
-    "message": "dark",
-    "description": "Theme Tab Description"
+    "message": "koyu",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "iconTitle": {
-    "message": "Icon",
-    "description": "Theme Tab Description"
+    "message": "Simge",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "iconColorSetting": {
-    "message": "Custom icon color",
-    "description": "Theme Tab Description"
+    "message": "Özel simge rengi",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "iconDownloadingColorSetting": {
-    "message": "Custom icon download animation color",
-    "description": "Theme Tab Description"
+    "message": "Özel simge indirme animasyon rengi",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "downloadPanelTitle": {
-    "message": "Download panel",
-    "description": "Theme Tab Description"
+    "message": "İndirme paneli",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "pageSize": {
-    "message": "Page size (width, height)",
-    "description": "Theme Tab Description"
+    "message": "Sayfa boyutu (genişlik, uzunluk)",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "downloadPanelThemeCustomDescription": {
-    "message": "Custom theme, stay tuned!",
-    "description": "Theme Tab Description"
+    "message": "Özel tema, beklemede kalın!",
+    "description": "Tema Sekmesi Açıklaması"
   },
   "el_colorpicker_confirm": {
-    "message": "OK",
-    "description": "Theme Tab Description - Element-UI colorPicker"
+    "message": "TAMAM",
+    "description": "Tema Sekmesi Açıklaması - Element-UI renk seçici"
   },
   "el_colorpicker_clear": {
     "message": "Clear",
-    "description": "Theme Tab Description - Element-UI colorPicker"
+    "description": "Tema Sekmesi Açıklaması - Element-UI renk seçici"
   },
   "el_popconfirm_confirmButtonText": {
-    "message": "OK",
-    "description": "Clear list - Element-UI PopConfirm"
+    "message": "TAMAM",
+    "description": "Listeyi temizle - Element-UI Onay penceresi"
   },
   "el_popconfirm_cancelButtonText": {
-    "message": "Cancel",
-    "description": "Clear list - Element-UI PopConfirm"
+    "message": "İptal",
+    "description": "Listeyi temizle - Element-UI Onay penceresi"
   },
   "starAbout1": {
-    "message": "If you like this plugin, please go to the",
-    "description": "about tab description"
+    "message": "Bu eklentiyi beğendiyseniz, lütfen şu adrese gidin:",
+    "description": "hakkında sekmesi açıklaması"
   },
   "pluginShopAbout": {
-    "message": "app store",
-    "description": "about tab description"
+    "message": "uygulama mağazası",
+    "description": "hakkında sekmesi açıklaması"
   },
   "starAbout2": {
-    "message": "and rate it",
-    "description": "about tab description"
+    "message": "ve oylayın",
+    "description": "hakkında sekmesi açıklaması"
   },
   "versionAbout": {
-    "message": "Version",
-    "description": "about tab description"
+    "message": "Sürüm",
+    "description": "hakkında sekmesi açıklaması"
   },
   "version1_0_0": {
-    "message": "{\"version\": \"1.0.0\", \"date\": \"2020-04-25\",\"data\": [\"1. Added dark mode theme (The theme file: /**/Extensions/your extension id/version/theme/theme.json. You can change it yourself, and I will add a custom theme function in the future)\",\"2. Update French translation\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"1.0.0\", \"date\": \"2020-04-25\",\"data\": [\"1. Koyu mod teması eklendi (Tema dosyası: /**/Extensions/your extension id/version/theme/theme.json. Bunu kendiniz değiştirebilirsiniz ve gelecekte özel bir tema işlevi ekleyeceğim)\",\"2. Fransızca çeviri güncellemesi\"]}",
+    "description": "Sürüm Açıklaması"
   },
   "version0_9_1": {
-    "message": "{\"version\": \"0.9.1\", \"date\": \"2020-04-11\",\"data\": [\"1. Added icon download animation (the ring download progress animation will be added later)\",\"2. Update Russian\",\"3. Solve some historical problems\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"0.9.1\", \"date\": \"2020-04-11\",\"data\": [\"1. İndirme animasyonu simgesi eklendi (halka indirme ilerleme animasyonu daha sonra eklenecek)\",\"2. Rusça güncellemesi\",\"3. Bazı eski sorunlar çözüldü\"]}",
+    "description": "Sürüm Açıklaması"
   },
   "version0_9_0": {
-    "message": "{\"version\": \"0.9.0\", \"date\": \"2020-03-15\",\"data\": [\"1. Custom icon color\",\"2. More language supported\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"0.9.0\", \"date\": \"2020-03-15\",\"data\": [\"1. Özel simge rengi\",\"2. Daha fazla dil eklendi\"]}",
+    "description": "Sürüm Açıklaması"
   },
   "version0_8_5": {
-    "message": "{\"version\": \"0.8.5\", \"date\": \"2020-01-19\",\"data\": [\"1. Add shortcut\",\"2. Add download files manually\",\"3. Add right-click download menu\",\"4. Optimization setting interface display\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"0.8.5\", \"date\": \"2020-01-19\",\"data\": [\"1. Kısayol ekle\",\"2. İndirme dosyalarını manuel olarak ekleyin\",\"3. Sağ tıklama indirme menüsü eklendi\",\"4. Optimizasyon ayarı arayüz ekranı\"]}",
+    "description": "Sürüm Açıklaması"
   },
   "version0_8_0": {
-    "message": "{\"version\": \"0.8.0\", \"date\": \"2020-01-13\",\"data\": [\"1. Add Ability to interrupt file re-download\",\"2. optimization Interface display and operation flow when downloading dangerous files\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"0.8.0\", \"date\": \"2020-01-13\",\"data\": [\"1. Dosyanın yeniden indirilmesini kesintiye uğratma yeteneği ekleyin\",\"2. Tehlikeli dosyaları indirirken arayüz ekranı ve işlem akışı optimizasyonu\"]}",
+    "description": "Sürüm Açıklaması"
   },
   "version0_7_0": {
-    "message": "{\"version\": \"0.7.1\", \"date\": \"2020-01-01\",\"data\": [\"1. Added notification during download\",\"2. Added download completion tone\",\"3. Chinese and English display of all pages\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"0.7.1\", \"date\": \"2020-01-01\",\"data\": [\"1. İndirme sırasında bildirim eklendi\",\"2. İndirme tamamlanma tonu eklendi\",\"3. Tüm sayfaların Çince ve İngilizce görünümü\"]}",
+    "description": "Sürüm Açıklaması"
   },
   "version0_6_2": {
-    "message": "{\"version\": \"0.6.2\", \"date\": \"2019-12-30\",\"data\": [\"1. Added the function of right-click to copy file name and download link to clipboard\",\"2. Added the function of displaying text prompts when the mouse moves to the button\",\"3. Continue to improve Chinese and English display\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"0.6.2\", \"date\": \"2019-12-30\",\"data\": [\"1. Dosya adını ve indirme bağlantısını panoya kopyalamak için sağ tıklama işlevi eklendi\",\"2. Fare düğmeye hareket ettiğinde metin istemlerini görüntüleme işlevi eklendi\",\"3. Çince ve İngilizce ekranı geliştirmeye devam\"]}",
+    "description": "Sürüm Açıklaması"
   },
   "version0_5_1": {
-    "message": "{\"version\": \"0.5.1\", \"date\": \"2019-12-13\",\"data\": [\"1. When downloading a dangerous file, a prompt box will be displayed to confirm the download\",\"2. Improve Chinese and English display\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"0.5.1\", \"date\": \"2019-12-13\",\"data\": [\"1. Tehlikeli bir dosya indirirken, indirmeyi onaylamak için bir komut kutusu görüntülenecektir.\",\"2. Çince ve İngilizce ekranı iyileştirmesi\"]}",
+    "description": "Sürüm Açıklaması"
   },
   "version0_4": {
-    "message": "{\"version\": \"0.4\", \"date\": \"2019-09-30\",\"data\": [\"1. Download file percentage progress display\",\"2. Download files can be paused, resumed, cancelled, deleted\",\"3. Search all downloaded files\"]}",
-    "description": "Version Description"
+    "message": "{\"version\": \"0.4\", \"date\": \"2019-09-30\",\"data\": [\"1. Dosya indirme yüzdesi ilerleme durumu eklendi\",\"2. Dosyaları indirmek duraklatılabilir, devam ettirilebilir, iptal edilebilir, silinebilir\",\"3. Bütün inen dosyalarda arama\"]}",
+    "description": "Sürüm Açıklaması"
   }
 }
